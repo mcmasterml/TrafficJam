@@ -6,7 +6,7 @@ Author: Peter McMaster, 2021
 
 ### Problem Statement
 
-Traffic sucks. It's not only annoying, but costly and dangerous. Technology can help by providing insight for policy, alleviating road congestion and decreasing the frequency and severity of accidents. This project is a continuation of research performed by the Research and Development Team at Lyft to investigate the factors surrounding car accidents.
+Traffic sucks. Technology can help by providing insight for policy, alleviating road congestion and decreasing the frequency and severity of accidents. This project is a continuation of research performed by the Research and Development Team at Lyft to investigate the factors surrounding car accidents, and an effort to extract meaningful insights for public policy by investigating some Big Data on the topic.
 
 The data used here consist in a 3.5-million observation dataset of US Car Accidents from 2016 to 2020 and include environmental factors such as:
 
