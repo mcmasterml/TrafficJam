@@ -1,6 +1,6 @@
 # Traffic Jam
 
-## IBM Data Science - Capstone Project
+## A Data Science Project in Researching Accident Severity
 
 Author: Peter McMaster, 2021
 
